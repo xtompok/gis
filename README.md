@@ -1,0 +1,2 @@
+# Základy geoinformatiky
+
