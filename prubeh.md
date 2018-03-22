@@ -21,4 +21,13 @@
   * `Set selectable layers...`
 
 # 4. cvičení
+* měla Katka Novotná
+
+# 5. cvičení 
+* opakování clipu
+* spatial join tisíckrát jinak
+* intersect
+* buffer (jen krátká ukázka)
+
+# 6. cvičení
 * bude mít Katka Novotná
