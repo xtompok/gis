@@ -30,4 +30,15 @@
 * buffer (jen krátká ukázka)
 
 # 6. cvičení
-* bude mít Katka Novotná
+* měl Lukáš Brůha
+* opakování intersectu a agregace
+* dissolve
+* vektorizace - nastavování atributů, polygony s dírou
+
+# 7. cvičení
+* topologie
+* úvod do rastrů
+
+# 8. cvičení
+* topologie ještě jednou, znovu a lépe
+* rastry - praktické příklady
