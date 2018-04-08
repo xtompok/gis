@@ -44,7 +44,7 @@
    * změnit přiblížení, aby se aktualizovala vrstva s chybami
  * v katalogu můžu kliknout na topologii pravým a `Properties` a pak mohu:
    * přidávat / odebírat vrstvy do/z topologie
-   * měnit pravidla (je jich málo, viz [chatsheet](http://help.arcgis.com/en/arcgisdesktop/10.0/help/001t/pdf/topology_rules_poster.pdf) )
+   * měnit pravidla (je jich málo, viz [cheatsheet](http://help.arcgis.com/en/arcgisdesktop/10.0/help/001t/pdf/topology_rules_poster.pdf) )
  * pokud mám toolbar (`Customize -> Toolbars`) `Topology`, tak mohu dělat pár věcí s topologií
    * nejprve je třeba zapnout editaci vrstvy, která je v topolgii, toolbar se aktivuje
    * topologická editace - hýbu s vrcholem a všechny navázané polygony se mění, ne jen ten, co je nejvýš
